@@ -10,6 +10,7 @@ import {
   FaBars,
   FaEnvelope,
   FaBars as FaMenu,
+   FaMedal,
 } from 'react-icons/fa';
 
 const socialLinks = [
@@ -24,7 +25,9 @@ const menuItems = [
   { icon: <FaUser />, label: 'About', href: 'about' },
   { icon: <FaFileAlt />, label: 'Resume', route: '/resume' },
   { icon: <FaBars />, label: 'Skills', href: 'skills' },
+  { icon: <FaMedal />, label: 'Achievements', href: 'achievements' },
   { icon: <FaEnvelope />, label: 'Contact', href: 'contact' }
+  
 ];
 
 function Sidebar() {
