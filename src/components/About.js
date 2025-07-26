@@ -56,7 +56,7 @@ const About = () => {
               <span  />
               <div className="timeline-content">
                 <h4>B.Tech IT (2022–2026)</h4>
-                <p>MMMUT – CGPA: 7.88</p>
+                <p>MMMUT – CGPA: 8.01</p>
               </div>
             </div>
             <div className="timeline-item">
