@@ -17,7 +17,7 @@ const About = () => {
             I specialize in <strong>ReactJS, JavaScript, C++</strong>, and I’m diving deep into <strong>AI/ML</strong> technologies.
           </p>
           <p>
-            Currently pursuing my B.Tech in IT at MMMUT,Gkp with a CGPA of 7.88 till 5th sem, I enjoy turning problems into elegant, efficient code.
+            Currently pursuing my B.Tech in IT at MMMUT,Gkp with a CGPA of 8.01 and SGPA of 8.78 till 6th sem, I enjoy turning problems into elegant, efficient code.
           </p>
           <p>
             When I’m not coding, you’ll find me writing, dancing, or exploring the latest tech trends.
